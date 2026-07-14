@@ -1,5 +1,7 @@
 ---
 name: change-point-management
+slug: change-point-management
+displayName: 变化点管理CPM
 version: 1.0.0
 description: 面向生产主管与质量工程师的变化点管理（CPM）技能，对 4M 变化点进行识别-标识-验证-追溯，防止批量不良。
 ---
